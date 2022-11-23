@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @K1ngK3ys
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on making video games
-- 📫 How to reach me: by writing a message to my business email (づ ◕‿◕ )づ 
+Good evening aviators,
+My name is Keys 
+Cybersecurity and Front-end web student...
+also producing my own music and I love fighter jets
+<3
 
 <!---
 K1ngK3ys/K1ngK3ys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
