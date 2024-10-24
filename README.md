@@ -1,8 +1,5 @@
-Good evening aviators,
-My name is Keys,
-Cybersecurity and Front-end web student...
-also producing my own music and I love fighter jets
-<3
+//insert text
+
 
 <!---
 K1ngK3ys/K1ngK3ys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
