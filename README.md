@@ -1,4 +1,4 @@
-IT & Managed Hosting - DevOps
+IT & Managed Hosting - DevOps&Systemadministration
 -- Cybersecurity and media informatics student @HSD Germany -- 
 
 I work at a company in the IT field and gained one year of experience. I know how to set up Networks and Servers/VMs, furthermore I also know how to Host applications via Docker, nginx and containers. Decent experience on writing YAML files.
