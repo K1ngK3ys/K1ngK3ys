@@ -5,7 +5,8 @@ I work at a company in the IT field and gained one year of experience. I know ho
 
 Beside that as mentioned above I'm also a student in media informatics and cybersecurity. Over the years I have gained decent skills in Web-development (HTML, CSS, JS), Java, Python and currently I am learning C/C++
 
-Tools I mostly work with are Google Tools, sometimes Microsoft aswell. I know about Atlassian, Jira, Confluence, Gitlab, I've also worked on AI Tools and set up n8n automation workflows and MCP (Model Context Protocol) 
+Tools I mostly work with are Google Tools, sometimes Microsoft aswell. I know about Atlassian, Jira, Confluence, Gitlab, I've also worked on AI Tools and set up n8n automation workflows and MCP (Model Context Protocol)
+I'm most confident with Microsoft and MacOS... Linux is still on standby
 
 
 <!---
